@@ -3,7 +3,7 @@ package company.tap.tapanimator_sample
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import company.tap.tapanimationkit.RenderAnimate
-import company.tap.tapanimationkit.Slide
+import company.tap.tapanimationkit.viewsanim.Slide
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

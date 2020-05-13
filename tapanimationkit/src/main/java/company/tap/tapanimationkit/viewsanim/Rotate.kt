@@ -1,4 +1,4 @@
-package company.tap.tapanimationkit
+package company.tap.tapanimationkit.viewsanim
 
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator
