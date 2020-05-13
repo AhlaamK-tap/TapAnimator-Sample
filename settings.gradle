@@ -1,0 +1,3 @@
+rootProject.name='TapAnimator-Sample'
+include ':app'
+include ':tapanimationkit'
