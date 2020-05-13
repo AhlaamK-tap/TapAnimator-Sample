@@ -35,7 +35,7 @@ import render.animations.*
  val render = RenderAnimate(this)
 
 // Set Animation
-render.setAnimation(Bounce().InDown(tv_hello))
+render.setAnimation(Slide().InUp(tv_hello))
 render.start()
 ```
 
